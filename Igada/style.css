@@ -1,0 +1,17 @@
+@charset "UTF-8";
+header > h1,p{
+    text-align: center;
+}
+
+main > picture > img{ 
+    width: 250px;
+    margin-top: 10px;
+}
+
+main > p {
+    text-align: left;
+}
+
+ div.RAM > picture > img {
+    width: 250px;
+}
